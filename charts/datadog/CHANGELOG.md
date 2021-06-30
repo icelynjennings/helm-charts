@@ -2,6 +2,10 @@
 
 ## 2.16.6
 
+* Support template expansion for `agents.containers.initContainers.additional`
+
+## 2.16.6
+
 * Support template expansion for `clusterAgent.podAnnotations`
 * Support template expansion for `clusterAgent.rbac.serviceAccountAnnotations`
 
